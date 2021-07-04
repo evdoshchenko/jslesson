@@ -8,4 +8,4 @@
 // git add *.css -
 // git status
 // git commit -a -m"first commit" - отправить в комит всего с месседжем
-
+// git log - вывод информации о коммитах
