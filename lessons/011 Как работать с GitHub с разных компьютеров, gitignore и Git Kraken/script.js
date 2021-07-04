@@ -1,0 +1,3 @@
+// git clone https://github.com/evdoshchenko/jslesson.git it project_2
+// ...
+// git pull
