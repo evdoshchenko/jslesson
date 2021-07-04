@@ -7,3 +7,4 @@
 // git add -A
 // git commit -a -m"sixth"
 // git push
+// :wq!
