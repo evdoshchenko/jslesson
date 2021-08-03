@@ -1,3 +1,3 @@
 # jslesson
 
-JavaScript lessons
+JavaScript lessons.
